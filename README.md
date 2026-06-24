@@ -30,4 +30,3 @@ jupyter notebook notebooks/kozhkode.ipynb
 
 ## Author
 Sreehari K Suresh — MSc Data Analytics & Geoinformatics  
-Kozhikode, Kerala, India
